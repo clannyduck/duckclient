@@ -1,0 +1,497 @@
+{
+  "baseModLoader": {
+    "id": 3295,
+    "gameVersionId": 6584,
+    "minecraftGameVersionId": 34,
+    "forgeVersion": "11.15.1.2318",
+    "name": "forge-11.15.1.2318",
+    "type": 1,
+    "downloadUrl": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9.jar",
+    "filename": "forge-1.8.9-11.15.1.2318-1.8.9.jar",
+    "installMethod": 1,
+    "latest": true,
+    "recommended": true,
+    "approved": false,
+    "dateModified": "2017-01-01T00:00:00Z",
+    "mavenVersionString": "net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9",
+    "versionJson": "{\"id\":\"forge-11.15.1.2318\",\"time\":\"2017-06-08T04:26:33+0000\",\"releaseTime\":\"1960-01-01T00:00:00-0700\",\"type\":\"release\",\"minecraftArguments\":\"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker\",\"minimumLauncherVersion\":14,\"assets\":\"1.8\",\"inheritsFrom\":\"1.8.9\",\"jar\":\"forge-11.15.1.2318\",\"libraries\":[{\"name\":\"net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\"},{\"name\":\"net.minecraft:launchwrapper:1.12\",\"serverreq\":true},{\"name\":\"org.ow2.asm:asm-all:5.0.3\",\"serverreq\":true},{\"name\":\"jline:jline:2.13\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":false},{\"name\":\"com.typesafe.akka:akka-actor_2.11:2.3.3\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"com.typesafe:config:1.2.1\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang:scala-compiler:2.11.1\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang:scala-library:2.11.1\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang:scala-reflect:2.11.1\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang:scala-swing_2.11:1.0.1\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"org.scala-lang:scala-xml_2.11:1.0.2\",\"url\":\"https://modloaders.forgecdn.net/647622546/maven/\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"lzma:lzma:0.0.1\",\"serverreq\":true},{\"name\":\"net.sf.jopt-simple:jopt-simple:4.6\",\"serverreq\":true},{\"name\":\"java3d:vecmath:1.5.2\",\"serverreq\":true,\"clientreq\":true},{\"name\":\"net.sf.trove4j:trove4j:3.0.3\",\"serverreq\":true,\"clientreq\":true}],\"mainClass\":\"net.minecraft.launchwrapper.Launch\"}",
+    "librariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.8.9-11.15.1.2318-1.8.9",
+    "minecraftVersion": "1.8.9",
+    "modLoaderGameVersionId": 6584,
+    "modLoaderGameVersionTypeId": 3,
+    "modLoaderGameVersionStatus": 3,
+    "modLoaderGameVersionTypeStatus": 1,
+    "mcGameVersionId": 5806,
+    "mcGameVersionTypeId": 4,
+    "mcGameVersionStatus": 1,
+    "mcGameVersionTypeStatus": 1
+  },
+  "isUnlocked": true,
+  "javaArgsOverride": null,
+  "javaDirOverride": null,
+  "lastPlayed": "2021-07-02T23:26:44.5224617Z",
+  "playedCount": 8,
+  "manifest": null,
+  "fileDate": "0001-01-01T00:00:00",
+  "installedModpack": null,
+  "projectID": 0,
+  "fileID": 0,
+  "customAuthor": null,
+  "modpackOverrides": null,
+  "isMemoryOverride": false,
+  "allocatedMemory": 4096,
+  "guid": "62cc40fe-4f6e-4ab1-80fc-863586fc2095",
+  "gameTypeID": 432,
+  "installPath": "C:\\Users\\Devyn\\curseforge\\minecraft\\Instances\\duckclient\\",
+  "name": "duckclient",
+  "cachedScans": [],
+  "isValid": true,
+  "lastPreviousMatchUpdate": "2021-07-01T22:37:24.1951887Z",
+  "lastRefreshAttempt": "2021-07-01T18:37:24.3450687-04:00",
+  "isEnabled": true,
+  "isPinned": false,
+  "gameVersion": "1.8.9",
+  "gameVersionFlavor": null,
+  "preferenceAlternateFile": false,
+  "preferenceAutoInstallUpdates": false,
+  "preferenceQuickDeleteLibraries": true,
+  "preferenceDeleteSavedVariables": false,
+  "preferenceProcessFileCommands": true,
+  "preferenceReleaseType": 1,
+  "syncProfile": {
+    "PreferenceEnabled": false,
+    "PreferenceAutoSync": true,
+    "PreferenceAutoDelete": false,
+    "PreferenceBackupSavedVariables": false,
+    "GameInstanceGuid": "00000000-0000-0000-0000-000000000000",
+    "SyncProfileID": 0,
+    "SavedVariablesProfile": null,
+    "LastSyncDate": "0001-01-01T00:00:00"
+  },
+  "preferenceShowAddOnInfo": true,
+  "installDate": "2021-06-27T01:51:23.8676995Z",
+  "installedAddons": [
+    {
+      "addonID": 231387,
+      "gameInstanceID": "62cc40fe-4f6e-4ab1-80fc-863586fc2095",
+      "installedFile": {
+        "id": 2295157,
+        "displayName": "MapWriter-1.8.9-2.3.14.jar",
+        "fileName": "MapWriter-1.8.9-2.3.14.jar",
+        "fileDate": "2016-04-20T20:32:21.07Z",
+        "fileLength": 221569,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2295/157/MapWriter-1.8.9-2.3.14.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mapwriter",
+            "fingerprint": 2628208291,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2201845953,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1429886832,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3399269491,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2128336439,
+        "gameVersion": [
+          "1.8.9"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2015-12-09T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "MapWriter-1.8.9-2.3.14.jar"
+      },
+      "dateInstalled": "2021-06-27T01:52:57.8974887Z",
+      "dateUpdated": "2021-06-27T01:52:57.9466542Z",
+      "dateLastUpdateAttempted": "2021-06-27T01:52:57.9466542Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 404340,
+      "gameInstanceID": "62cc40fe-4f6e-4ab1-80fc-863586fc2095",
+      "installedFile": {
+        "id": 3041115,
+        "displayName": "OptiFine",
+        "fileName": "OptiFine_1.8.9_HD_U_L5.jar",
+        "fileDate": "2020-08-24T19:34:03.577Z",
+        "fileLength": 2517183,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3041/115/OptiFine_1.8.9_HD_U_L5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "patch",
+            "fingerprint": 900181695,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Config.class",
+            "fingerprint": 2460701551,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "javax",
+            "fingerprint": 1898314328,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1208475667,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "optifine",
+            "fingerprint": 3468143715,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3801073185,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "doc",
+            "fingerprint": 1642107118,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "patch.cfg",
+            "fingerprint": 4147486993,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "buildof.txt",
+            "fingerprint": 66575935,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "changelog.txt",
+            "fingerprint": 1632442907,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "files.txt",
+            "fingerprint": 505595435,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "launchwrapper-of.txt",
+            "fingerprint": 1647664054,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ToCheck.txt",
+            "fingerprint": 749652810,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "launchwrapper-of-2.1.jar",
+            "fingerprint": 996484346,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1031938021,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 4166407753,
+        "gameVersion": [
+          "Forge",
+          "1.8.9"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000008.0000000009",
+            "gameVersion": "1.8.9",
+            "gameVersionReleaseDate": "2015-12-09T06:00:00Z",
+            "gameVersionName": "1.8.9"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 9,
+        "renderCacheId": 1968060,
+        "projectId": 404340,
+        "packageFingerprintId": 511102708,
+        "gameVersionDateReleased": "2015-12-09T06:00:00Z",
+        "gameVersionMappingId": 2395475,
+        "gameVersionId": 5806,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "OptiFine_1.8.9_HD_U_L5.jar"
+      },
+      "dateInstalled": "2021-06-27T01:53:48.7922174Z",
+      "dateUpdated": "2021-06-27T01:53:48.7922174Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 250398,
+      "gameInstanceID": "62cc40fe-4f6e-4ab1-80fc-863586fc2095",
+      "installedFile": {
+        "id": 3071182,
+        "displayName": "Controlling-7.0.0.2.jar",
+        "fileName": "Controlling-7.0.0.2.jar",
+        "fileDate": "2020-10-03T20:32:12.263Z",
+        "fileLength": 31284,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 3071183,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1201980113,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 4155250897,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 22342502,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2147222986,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4025096685,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2198034985,
+        "gameVersion": [
+          "Forge",
+          "1.8.9"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Controlling-7.0.0.2.jar"
+      },
+      "dateInstalled": "2021-06-29T20:49:43.9036979Z",
+      "dateUpdated": "2021-06-29T20:49:44.9005523Z",
+      "dateLastUpdateAttempted": "2021-06-29T20:49:44.9005523Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 297038,
+      "gameInstanceID": "62cc40fe-4f6e-4ab1-80fc-863586fc2095",
+      "installedFile": {
+        "id": 2936265,
+        "displayName": "CraftPresence v1.6.1 (1.8.9)",
+        "fileName": "CraftPresence-1.8.9-1.6.1.jar",
+        "fileDate": "2020-04-21T05:07:00.18Z",
+        "fileLength": 405227,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2936/265/CraftPresence-1.8.9-1.6.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 580003299,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1650370739,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1635173871,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lib",
+            "fingerprint": 1893455177,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1447751152,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 3986172230,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2144031702,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2485510245,
+        "gameVersion": [
+          "Forge",
+          "1.8.9"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000008.0000000009",
+            "gameVersion": "1.8.9",
+            "gameVersionReleaseDate": "2015-12-09T06:00:00Z",
+            "gameVersionName": "1.8.9"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1836543,
+        "projectId": 297038,
+        "packageFingerprintId": 444560989,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2189301,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "CraftPresence-1.8.9-1.6.1.jar"
+      },
+      "dateInstalled": "2021-07-01T22:37:24.0312797Z",
+      "dateUpdated": "2021-07-01T22:37:24.0312797Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    }
+  ],
+  "isMigrated": false,
+  "preferenceUploadProfile": false,
+  "wasNameManuallyChanged": false
+}
